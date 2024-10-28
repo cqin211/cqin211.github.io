@@ -11,6 +11,11 @@ redirect_from:
 I am a postdoctoral scholar at Stanford Graduate School of Business working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/). Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School advised by [Daniel Russo](https://djrusso.github.io/).
 My research interests lie at the interface of sequential decision-making under uncertainty and statistical machine learning, including theory and applications of multi-armed bandits, sequential design of experiments, causal inference, and reinforcement learning.
 
+Contact
+======
+Email: chaoqin [at] stanford.edu
+
+
 <!-- llllllThis is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
