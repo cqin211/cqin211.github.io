@@ -15,9 +15,8 @@ redirect_from:
 
 
 
-Journal papers under review
+Preprints
 -----
-
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
 Under review at *Operations Research*
@@ -30,14 +29,14 @@ Major revision at *Management Science*
 Chao Qin, Wei You\
 Major revision at *Operations Research*
 
-
-
-Journal papers accepted or published
------
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
 Conditionally accepted by *Econometrica*
 
+
+
+Journal papers
+-----
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
 *Mathematics of Operations Research*, 2023
@@ -49,6 +48,7 @@ Huanan Zhang, Cong Shi, Chao Qin, Cheng Hua\
 [A Faster Algorithm for the Resource Allocation Problem with Convex Cost Functions](https://www.sciencedirect.com/science/article/pii/S1570866715000830)\
 Cong Shi, Huanan Zhang, Chao Qin\
 *Journal of Discrete Algorithms*, 2015
+
 
 Conference papers
 -----
@@ -78,7 +78,7 @@ Other papers
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/abs/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
 
-A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks of Its Guidance\
+A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks on Its Guidance\
 Chao Qin
 
 [Optimal Best Arm Identification in Two-Armed Bandits with a Fixed Budget under a Small Gap](https://arxiv.org/abs/2201.04469)\
