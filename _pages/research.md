@@ -30,12 +30,14 @@ Major revision at *Management Science*
 Chao Qin, Wei You\
 Major revision at *Operations Research*
 
+
+
+Journal papers accepted or published
+-----
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
 Conditionally accepted by *Econometrica*
 
-Journal papers accepted or published
------
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
 *Mathematics of Operations Research*, 2023
