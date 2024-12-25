@@ -39,7 +39,7 @@ Journal papers
 -----
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
-*Mathematics of Operations Research*, 2023
+*Mathematics of Operations Research*, 2024
 
 [Stochastic Regret Minimization for Revenue Management Problems with Non-Stationary Demands](https://onlinelibrary.wiley.com/doi/10.1002/nav.21704)\
 Huanan Zhang, Cong Shi, Chao Qin, Cheng Hua\
