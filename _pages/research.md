@@ -29,6 +29,8 @@ Major revision at *Operations Research*
 Chao Qin, Daniel Russo\
 Major revision at *Management Science*
 
+Shortlisting\
+Chao Qin, Kuang Xu
 
 
 Journal papers
