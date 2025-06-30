@@ -19,24 +19,28 @@ Preprints
 -----
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
-Under review at *Operations Research*
+Major revision at *Operations Research*
 
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
 Chao Qin, Daniel Russo\
 Major revision at *Management Science*
 
-[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://arxiv.org/abs/2310.19319)\\
-Chao Qin, Wei You\
-Major revision at *Operations Research*
 
-[A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
-Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
-Conditionally accepted by *Econometrica*
+
+
 
 
 
 Journal papers
 -----
+[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://arxiv.org/abs/2310.19319)\\
+Chao Qin, Wei You\
+*Operations Research*,2025
+
+[A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
+Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
+*Econometrica*, 2025
+
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
 *Mathematics of Operations Research*, 2024
