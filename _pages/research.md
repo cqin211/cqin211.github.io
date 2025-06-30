@@ -17,6 +17,10 @@ redirect_from:
 
 Preprints
 -----
+[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
+Guido Imbens, Chao Qin, Stefan Wager\
+A one-page abstract of this work will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
+
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
 Major revision at *Operations Research*
@@ -24,10 +28,6 @@ Major revision at *Operations Research*
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
 Chao Qin, Daniel Russo\
 Major revision at *Management Science*
-
-
-
-
 
 
 
@@ -56,6 +56,10 @@ Cong Shi, Huanan Zhang, Chao Qin\
 
 Conference papers
 -----
+[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
+Guido Imbens, Chao Qin, Stefan Wager\
+*Conference on Economics and Computation (EC)* 2025
+
 [Information-Directed Selection for Top-Two Algorithms](https://proceedings.mlr.press/v195/you23a.html)\
 Wei You, Chao Qin, Zihao Wang, Shuoguang Yang\
 *Conference on Learning Theory (COLT)* 2023
