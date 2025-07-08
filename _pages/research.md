@@ -19,15 +19,13 @@ Preprints
 -----
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-A one-page abstract of this work will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
+A one-page abstract will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
 
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
 Major revision at *Operations Research*
 
-[Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
-Chao Qin, Daniel Russo\
-Major revision at *Management Science*
+
 
 Shortlisting\
 Chao Qin, Kuang Xu
@@ -35,13 +33,17 @@ Chao Qin, Kuang Xu
 
 Journal papers
 -----
+[Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
+Chao Qin, Daniel Russo\
+*Management Science*, 2025+
+
 [Dual-Directed Algorithm Design for Efficient Pure Exploration](https://arxiv.org/abs/2310.19319)\\
 Chao Qin, Wei You\
-*Operations Research*,2025
+*Operations Research*, 2025+
 
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
-*Econometrica*, 2025
+*Econometrica*, 2025+
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
