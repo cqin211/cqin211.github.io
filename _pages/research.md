@@ -26,9 +26,13 @@ Chao Qin, Daniel Russo\
 Major revision at *Operations Research*
 
 
-
 Shortlisting Experiments\
 Xu Kuang, Chao Qin
+
+
+On the Optimality of Greedy against Greedy\
+Xinyu Liu, Chao Qin, Wei You
+
 
 
 Journal papers
