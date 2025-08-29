@@ -28,7 +28,7 @@ Major revision at *Operations Research*
 
 
 Shortlisting Experiments\
-Chao Qin, Kuang Xu
+Xu Kuang, Chao Qin
 
 
 Journal papers
