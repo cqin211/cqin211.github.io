@@ -30,7 +30,7 @@ Shortlisting Experiments\
 Xu Kuang, Chao Qin
 
 
-Exploration via Frank-Wolfe Self-Play\
+Pure Exploration via Frank-Wolfe Self-Play\
 Xinyu Liu, Chao Qin, Wei You
 
 
