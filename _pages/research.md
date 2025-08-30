@@ -30,9 +30,12 @@ Shortlisting Experiments\
 Xu Kuang, Chao Qin
 
 
-On the Optimality of Greedy against Greedy\
+On the Optimality of Frank-Wolfe against Frank-Wolfe\
 Xinyu Liu, Chao Qin, Wei You
 
+
+On the Finite-Time Performance of Thompson and Exploration Sampling\
+Chao Qin
 
 
 Journal papers
