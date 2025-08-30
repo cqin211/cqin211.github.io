@@ -30,7 +30,7 @@ Shortlisting Experiments\
 Xu Kuang, Chao Qin
 
 
-On the Optimality of Frank-Wolfe against Frank-Wolfe\
+Exploration via Frank-Wolfe Self-Play\
 Xinyu Liu, Chao Qin, Wei You
 
 
