@@ -34,7 +34,7 @@ Pure Exploration via Frank-Wolfe Self-Play\
 Xinyu Liu, Chao Qin, Wei You
 
 
-On the Finite-Time Performance of Thompson and Exploration Sampling\
+On Finite-Time Performance of Posterior Sampling Algorithms\
 Chao Qin
 
 
