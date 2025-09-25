@@ -17,21 +17,22 @@ redirect_from:
 
 Preprints
 -----
-[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
-Guido Imbens, Chao Qin, Stefan Wager\
-A one-page abstract will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
-
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
 Major revision at *Operations Research*
 
 
+[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
+Guido Imbens, Chao Qin, Stefan Wager\
+A one-page abstract will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
+
+
+[Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
+Xinyu Liu, Chao Qin, Wei You\
+Submitted. Short version is accepted by NeurIPS 2025 ML×OR Workshop.
+
 Shortlisting Experiments\
 Xu Kuang, Chao Qin
-
-
-Pure Exploration via Frank-Wolfe Self-Play\
-Xinyu Liu, Chao Qin, Wei You
 
 
 On Finite-Time Performance of Posterior Sampling Algorithms\
