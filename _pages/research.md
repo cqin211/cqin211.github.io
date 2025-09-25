@@ -29,10 +29,10 @@ A one-page abstract will appear at *the 26th ACM Conference on Economics and Com
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
-Submitted. Short version is accepted by NeurIPS 2025 ML×OR Workshop.
+Submitted. Short version will appear at *NeurIPS 2025 ML×OR Workshop*
 
-Shortlisting Experiments\
-Xu Kuang, Chao Qin
+Shortlist Experiments\
+Chao Qin, Xu Kuang
 
 
 On Finite-Time Performance of Posterior Sampling Algorithms\
