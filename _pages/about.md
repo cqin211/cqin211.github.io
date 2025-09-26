@@ -26,9 +26,9 @@ On the 2025–2026 academic job market, for the first time
 
 Upcoming events
 ======
-Oral presentation, Cornell Young Researchers Workshop, 2025<br>
-Stanford University, UC San Diego, and UChicago Rising Stars in Data Science, 2025<br>
-INFORMS Annual Meeting 2025
+Oral presentation, **Cornell Young Researchers Workshop**, 2025
+**Stanford University, UC San Diego, and UChicago Rising Stars in Data Science**, 2025
+**INFORMS Annual Meeting 2025**
 
 
 
