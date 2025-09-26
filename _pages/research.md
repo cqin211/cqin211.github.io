@@ -24,11 +24,9 @@ Major revision at **Operations Research**
 - Service Management SIG at MSOM 2024
 - Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
 
-
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
 A one-page abstract will appear at **ACM Conference on Economics and Computation (EC)** 2025
-
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
@@ -38,8 +36,6 @@ Shortlist Experiments\
 Chao Qin, Xu Kuang
 
 
-On Finite-Time Performance of Posterior Sampling Algorithms\
-Chao Qin
 
 
 Journal papers
@@ -101,9 +97,11 @@ Other papers
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/abs/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
 
-A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks on Its Guidance\
-Chao Qin
-
 [Optimal Best Arm Identification in Two-Armed Bandits with a Fixed Budget under a Small Gap](https://arxiv.org/abs/2201.04469)\
 Masahiro Kato, Kaito Ariu, Masaaki Imaizumi, Masahiro Nomura, Chao Qin
 
+A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks on Its Guidance\
+Chao Qin
+
+On Finite-Time Performance of Posterior Sampling Algorithms\
+Chao Qin
