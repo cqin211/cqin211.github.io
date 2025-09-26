@@ -16,7 +16,7 @@ Outside academia, I worked at Scale AI, Google DeepMind, Amazon Web Services AI 
 
 Contact
 ======
-Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
+Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)  
 [Google Scholar](https://scholar.google.com/citations?user=BpXNPtQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/chao-qin-b954228b/)
 
 
