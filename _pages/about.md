@@ -27,7 +27,8 @@ On the 2025–2026 academic job market, for the first time
 Upcoming events
 ======
 Oral presentation, Cornell Young Researchers Workshop, 2025<br>
-Stanford University, UC San Diego, and UChicago Rising Stars in Data Science, 2025.
+Stanford University, UC San Diego, and UChicago Rising Stars in Data Science, 2025<br>
+INFORMS Annual Meeting 2025
 
 
 
@@ -35,8 +36,11 @@ Stanford University, UC San Diego, and UChicago Rising Stars in Data Science, 20
 Selected past events
 ======
 Mini-course, Northwestern Kellogg Operations, 2025<br>
-Biostatistics seminar, University of California, Berkeley, 2025
-Econometrics seminar, University of Southern California, 2024 
+Biostatistics seminar, University of California, Berkeley, 2025<br>
+Operations seminar, UC Irvine Paul Merage School of Business, 2025<br>
+Econometrics seminar, University of Southern California, 2024<br>
+Spotlight talk, Chicago Booth Machine Learning in Economics Summer Conference (MLESC25)<br>
+Full talk, Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions, 2024<br>
 
 
 
