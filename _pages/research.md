@@ -19,7 +19,7 @@ Preprints
 -----
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
-Major revision at *Operations Research*
+Major revision at **Operations Research**
 - Second Prize, INFORMS Jeff McGill Student Paper Award, 2024
 - Service Management SIG at MSOM 2024
 - Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
@@ -27,12 +27,12 @@ Major revision at *Operations Research*
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-A one-page abstract will appear at *the 26th ACM Conference on Economics and Computation (EC'25)*
+A one-page abstract will appear at **ACM Conference on Economics and Computation (EC)** 2025
 
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
-Submitted. Short version will appear at *NeurIPS 2025 ML×OR Workshop*
+Submitted. Short version will appear at **NeurIPS 2025 ML×OR Workshop**
 
 Shortlist Experiments\
 Chao Qin, Xu Kuang
@@ -46,15 +46,15 @@ Journal papers
 -----
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
 Chao Qin, Daniel Russo\
-**Management Science**, accepted.
+**Management Science**, accepted
 
 [Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
 Chao Qin, Wei You\
-**Operations Research**, accepted.
+**Operations Research**, accepted
 
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/A-Comment-on-Adaptive-Treatment-Assignment-in-Experiments-for-Policy-Choice/file/20334-3.pdf)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
-**Econometrica**, accepted.
+**Econometrica**, accepted
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
@@ -73,27 +73,27 @@ Conference papers
 -----
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-*Conference on Economics and Computation (EC)* 2025
+**ACM Conference on Economics and Computation (EC)** 2025
 
 [Information-Directed Selection for Top-Two Algorithms](https://proceedings.mlr.press/v195/you23a.html)\
 Wei You, Chao Qin, Zihao Wang, Shuoguang Yang\
-*Conference on Learning Theory (COLT)* 2023
+**Conference on Learning Theory (COLT)** 2023
 
 [An Analysis of Ensemble Sampling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/874f5e53d7ce44f65fbf27a7b9406983-Abstract-Conference.html)\
 Chao Qin, Zheng Wen, Xiuyuan Lu, Benjamin Van Roy\
-*Conference on Neural Information Processing Systems (NeurIPS)* 2022
+**Conference on Neural Information Processing Systems (NeurIPS)** 2022
 
 [Contextual Information-Directed Sampling](https://proceedings.mlr.press/v162/hao22b.html)\
 Botao Hao, Tor Lattimore, Chao Qin\
-*International Conference on Machine Learning (ICML)* 2022
+**International Conference on Machine Learning (ICML)** 2022
 
 [Open Problem: Optimal Best-Arm Identification with Fixed Budget](https://proceedings.mlr.press/v178/open-problem-qin22a.html)\
 Chao Qin\
-*Conference on Learning Theory (COLT)* 2022
+**Conference on Learning Theory (COLT)** 2022
 
 [Improving the Expected Improvement Algorithm](https://papers.nips.cc/paper_files/paper/2017/hash/b19aa25ff58940d974234b48391b9549-Abstract.html)\
 Chao Qin, Diego Klabjan, Daniel Russo\
-*Conference on Neural Information Processing Systems (NeurIPS)* 2017
+**Conference on Neural Information Processing Systems (NeurIPS)** 2017
 
 
 Other papers
