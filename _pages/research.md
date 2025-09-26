@@ -20,6 +20,9 @@ Preprints
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/abs/2402.10592)\
 Chao Qin, Daniel Russo\
 Major revision at *Operations Research*
+- Second Prize, INFORMS Jeff McGill Student Paper Award, 2024
+- Service Management SIG at MSOM 2024
+- Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
 
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
@@ -43,27 +46,27 @@ Journal papers
 -----
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
 Chao Qin, Daniel Russo\
-*Management Science*, 2025+
+**Management Science**, accepted.
 
-[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://arxiv.org/abs/2310.19319)\\
+[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
 Chao Qin, Wei You\
-*Operations Research*, 2025+
+**Operations Research**, accepted.
 
-[A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://arxiv.org/abs/2109.08229)\
+[A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/A-Comment-on-Adaptive-Treatment-Assignment-in-Experiments-for-Policy-Choice/file/20334-3.pdf)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
-*Econometrica*, 2025+
+**Econometrica**, accepted.
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
-*Mathematics of Operations Research*, 2024
+**Mathematics of Operations Research**, 2024
 
 [Stochastic Regret Minimization for Revenue Management Problems with Non-Stationary Demands](https://onlinelibrary.wiley.com/doi/10.1002/nav.21704)\
 Huanan Zhang, Cong Shi, Chao Qin, Cheng Hua\
-*Naval Research Logistics*, 2016
+**Naval Research Logistics**, 2016
 
 [A Faster Algorithm for the Resource Allocation Problem with Convex Cost Functions](https://www.sciencedirect.com/science/article/pii/S1570866715000830)\
 Cong Shi, Huanan Zhang, Chao Qin\
-*Journal of Discrete Algorithms*, 2015
+**Journal of Discrete Algorithms**, 2015
 
 
 Conference papers
