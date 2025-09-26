@@ -36,23 +36,22 @@ INFORMS Annual Meeting 2025
 Selected past events
 ======
 Operations
-- Mini-course, Northwestern Kellogg Operations, 2025
-- Operations seminar, UC Irvine Paul Merage School of Business, 2025
--Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
-- Service Management SIG at MSOM 2024
-- ISyE-MS&E-IOE Joint Rising Star, 2025<br>
-- Spotlight talk, Purdue Supply Chain and Operations Management Department, 2025
-- Lecture, Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making, 2025
-- A number of internal talks and seminars at Stanford and Columbia, as well as at conferences including INFORMS, MSOM, APS, RMP, MIW
+- Mini-course, **Northwestern Kellogg Operations**, 2025
+- Department seminar, **UC Irvine Paul Merage School of Business**, 2025
+- Technology, Innovation, and Entrepreneurship **SIG at MSOM 2025**
+- Service Management **SIG at MSOM 2024**
+- Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
+- **ISyE-MS&E-IOE Joint Rising Star**, 2025
+- Spotlight talk, **Purdue Supply Chain and Operations Management Department**, 2025
+- Conferences including INFORMS, MSOM, APS, RMP, MIW, as well as a number of internal talks, seminars, and conferences at Stanford and Columbia...
 
 
 
-
-Statistics and economics
--Biostatistics seminar, University of California, Berkeley, 2025
--Econometrics seminar, University of Southern California, 2024
--Full talk, Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions, 2024
--Chicago Booth Machine Learning in Economics Summer Conference (MLESC25)
+Econometrics and statistics
+- Biostatistics seminar, **University of California, Berkeley**, 2025
+- Econometrics seminar, **University of Southern California**, 2024
+- Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
+- Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
 
 
 
