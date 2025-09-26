@@ -21,15 +21,17 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 [Google Scholar](https://scholar.google.com/citations?user=BpXNPtQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/chao-qin-b954228b/)
 
 
-======
 
 
 Upcoming events
 ======
-Oral presentation, **Cornell Young Researchers Workshop**, 2025
-**Stanford University, UC San Diego, and UChicago Rising Stars in Data Science**, 2025
+Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
+**Stanford University, UC San Diego, and UChicago Rising Stars in Data Science**, 2025<br>
 **INFORMS Annual Meeting 2025**
-
+- SD13 - Learning, Ranking, and Selection
+- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
+- MA22 - Data-Driven Operations, co-organized with Yueyang Liu (Rice Jones Graduate School of Business)
+- TE57 - Real-World Experimentation: Bridging Academic Insights and Industry Practice, co-organized with Ramesh Johari (Stanford MS&E) with talks from my collaborators and Airbnb
 
 
 
@@ -52,6 +54,7 @@ Econometrics and statistics
 - Econometrics seminar, **University of Southern California**, 2024
 - Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
 - Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
+- Conferences including **JSM, ASSA**
 
 
 
