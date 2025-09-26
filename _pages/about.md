@@ -27,7 +27,7 @@ Upcoming events
 ======
 - Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
 - Stanford University, UC San Diego, and UChicago **Rising Stars in Data Science**, 2025<br>
-- INFORMS Annual Meeting 2025**
+- **INFORMS Annual Meeting 2025**
 	- SD13 - Learning, Ranking, and Selection
 	- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
 	- MA22 - Data-Driven Operations, co-organized with Yueyang Liu (Rice Jones Graduate School of Business)
