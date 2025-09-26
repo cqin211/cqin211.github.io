@@ -39,8 +39,10 @@ Mini-course, Northwestern Kellogg Operations, 2025<br>
 Biostatistics seminar, University of California, Berkeley, 2025<br>
 Operations seminar, UC Irvine Paul Merage School of Business, 2025<br>
 Econometrics seminar, University of Southern California, 2024<br>
-Spotlight talk, Chicago Booth Machine Learning in Economics Summer Conference (MLESC25)<br>
+ISyE-MS&E-IOE Joint Rising Star, 2025<br>
 Full talk, Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions, 2024<br>
+Chicago Booth Machine Learning in Economics Summer Conference (MLESC25)<br>
+Spotlight talk, Purdue Supply Chain and Operations Management Department, 2025
 
 
 
