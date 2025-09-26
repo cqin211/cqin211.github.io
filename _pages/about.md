@@ -25,13 +25,13 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 
 Upcoming events
 ======
-Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
-**Stanford University, UC San Diego, and UChicago Rising Stars in Data Science**, 2025<br>
-**INFORMS Annual Meeting 2025**
-- SD13 - Learning, Ranking, and Selection
-- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
-- MA22 - Data-Driven Operations, co-organized with Yueyang Liu (Rice Jones Graduate School of Business)
-- TE57 - Real-World Experimentation: Bridging Academic Insights and Industry Practice, co-organized with Ramesh Johari (Stanford MS&E) with talks from my collaborators and Airbnb
+- Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
+- Stanford University, UC San Diego, and UChicago **Rising Stars in Data Science**, 2025<br>
+- INFORMS Annual Meeting 2025**
+	- SD13 - Learning, Ranking, and Selection
+	- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
+	- MA22 - Data-Driven Operations, co-organized with Yueyang Liu (Rice Jones Graduate School of Business)
+	- TE57 - Real-World Experimentation: Bridging Academic Insights and Industry Practice, co-organized with Ramesh Johari (Stanford MS&E) with talks from my collaborators and Airbnb
 
 
 
@@ -43,7 +43,7 @@ Operations
 - Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
 - Service Management **SIG at MSOM** 2024
 - Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
-- **ISyE-MS&E-IOE Joint Rising Star**, 2025
+- ISyE-MS&E-IOE **Joint Rising Star**, 2025
 - Spotlight talk, **Purdue Supply Chain and Operations Management Department**, 2025
 - Conferences including **INFORMS, MSOM, APS, RMP, MIW**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
 
