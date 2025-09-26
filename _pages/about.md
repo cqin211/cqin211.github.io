@@ -13,6 +13,7 @@ My research interests lie at the interface of sequential decision-making under u
 This [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) provides an overview of my research.
 Outside academia, I worked at Scale AI, Google DeepMind, Amazon Web Services AI Lab, and Adobe Research.
 
+**On the 2025–2026 academic job market, for the first time**
 
 Contact
 ======
@@ -20,7 +21,6 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 [Google Scholar](https://scholar.google.com/citations?user=BpXNPtQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/chao-qin-b954228b/)
 
 
-On the 2025–2026 academic job market, for the first time
 ======
 
 
@@ -38,12 +38,12 @@ Selected past events
 Operations
 - Mini-course, **Northwestern Kellogg Operations**, 2025
 - Department seminar, **UC Irvine Paul Merage School of Business**, 2025
-- Technology, Innovation, and Entrepreneurship **SIG at MSOM 2025**
-- Service Management **SIG at MSOM 2024**
+- Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
+- Service Management **SIG at MSOM** 2024
 - Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
 - **ISyE-MS&E-IOE Joint Rising Star**, 2025
 - Spotlight talk, **Purdue Supply Chain and Operations Management Department**, 2025
-- Conferences including INFORMS, MSOM, APS, RMP, MIW, as well as a number of internal talks, seminars, and conferences at Stanford and Columbia...
+- Conferences including **INFORMS, MSOM, APS, RMP, MIW**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
 
 
 
