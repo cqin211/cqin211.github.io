@@ -37,7 +37,6 @@ Chao Qin, Xu Kuang
 
 
 
-
 Journal papers
 -----
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
