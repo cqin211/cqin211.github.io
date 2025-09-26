@@ -13,7 +13,7 @@ My research interests lie at the interface of sequential decision-making under u
 This [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) provides an overview of my research.
 Outside academia, I worked at Scale AI, Google DeepMind, Amazon Web Services AI Lab, and Adobe Research.
 
-**On the 2025–2026 academic job market, for the first time**
+**On the 2025–2026 academic job market for the first time, aware that this path requires a long-term commitment**
 
 Contact
 ======
