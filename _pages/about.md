@@ -37,7 +37,7 @@ Upcoming events
 
 Selected past events
 ======
-Operations
+**Operations**
 - Mini-course, **Northwestern Kellogg Operations**, 2025
 - Department seminar, **UC Irvine Paul Merage School of Business**, 2025
 - Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
@@ -49,7 +49,7 @@ Operations
 
 
 
-Econometrics and statistics
+**Econometrics and statistics**
 - Biostatistics seminar, **University of California, Berkeley**, 2025
 - Econometrics seminar, **University of Southern California**, 2024
 - Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
