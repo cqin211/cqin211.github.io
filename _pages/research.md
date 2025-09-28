@@ -32,8 +32,6 @@ A one-page abstract will appear at **ACM Conference on Economics and Computation
 Xinyu Liu, Chao Qin, Wei You\
 Submitted. Short version will appear at **NeurIPS 2025 ML×OR Workshop**
 
-Shortlist Experiments\
-Chao Qin, Xu Kuang
 
 
 
@@ -93,6 +91,9 @@ Chao Qin, Diego Klabjan, Daniel Russo\
 
 Other papers
 -----
+Shortlist Experiments\
+Chao Qin, Xu Kuang
+
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/abs/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
 
