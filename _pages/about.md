@@ -38,7 +38,7 @@ Upcoming events
 Selected past events
 ======
 **Operations**
-- Mini-course, **Northwestern Kellogg Operations**, 2025
+- [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg Operations**, 2025
 - Department seminar, **UC Irvine Paul Merage School of Business**, 2025
 - Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
 - Service Management **SIG at MSOM** 2024
