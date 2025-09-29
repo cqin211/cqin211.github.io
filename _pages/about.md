@@ -38,15 +38,14 @@ Upcoming events
 Selected past events
 ======
 **Operations**
-- [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg Operations**, 2025
-- Department seminar, **UC Irvine Paul Merage School of Business**, 2025
+- [Operations mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg**, 2025
+- Operations seminar, **UC Irvine Paul Merage School of Business**, 2025
+- Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
 - Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
 - Service Management **SIG at MSOM** 2024
-- Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
 - ISyE-MS&E-IOE **Joint Rising Star**, 2025
-- Spotlight talk, **Purdue Supply Chain and Operations Management Department**, 2025
+- Spotlight talk, **Purdue Supply Chain and Operations Management Conference**, 2025
 - Conferences including **INFORMS, MSOM, APS, RMP, MIW**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
-
 
 
 **Econometrics and statistics**
@@ -55,8 +54,6 @@ Selected past events
 - Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
 - Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
 - Conferences including **JSM, ASSA**
-
-
 
 
 

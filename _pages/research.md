@@ -94,6 +94,7 @@ Other papers
 Shortlist Experiments\
 Chao Qin, Xu Kuang
 
+
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/abs/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
 
@@ -103,5 +104,3 @@ Masahiro Kato, Kaito Ariu, Masaaki Imaizumi, Masahiro Nomura, Chao Qin
 A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks on Its Guidance\
 Chao Qin
 
-On Finite-Time Performance of Posterior Sampling Algorithms\
-Chao Qin
