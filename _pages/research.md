@@ -24,7 +24,7 @@ Major revision at **Operations Research**
 - Service Management SIG at MSOM 2024
 - Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
 
-[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
+[Admissibility of Neyman Allocation: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
 A one-page abstract will appear at **ACM Conference on Economics and Computation (EC)** 2025
 
