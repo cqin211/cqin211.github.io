@@ -26,11 +26,11 @@ Major revision at **Operations Research**
 
 [Admissibility of Neyman Allocation: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-A one-page abstract will appear at **ACM Conference on Economics and Computation (EC)** 2025
+Journal version in preparation. Short versions accepted at **ACM Conference on Economics and Computation (EC)** 2025 and **NeurIPS 2025 ML×OR Workshop**
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
-Submitted. Short version will appear at **NeurIPS 2025 ML×OR Workshop**
+Submitted. Short version accepted at **NeurIPS 2025 ML×OR Workshop**
 
 
 
@@ -51,7 +51,7 @@ Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
-**Mathematics of Operations Research**, 2024
+**Mathematics of Operations Research**, 2023
 
 [Stochastic Regret Minimization for Revenue Management Problems with Non-Stationary Demands](https://onlinelibrary.wiley.com/doi/10.1002/nav.21704)\
 Huanan Zhang, Cong Shi, Chao Qin, Cheng Hua\
@@ -64,10 +64,6 @@ Cong Shi, Huanan Zhang, Chao Qin\
 
 Conference papers
 -----
-[Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
-Guido Imbens, Chao Qin, Stefan Wager\
-**ACM Conference on Economics and Computation (EC)** 2025
-
 [Information-Directed Selection for Top-Two Algorithms](https://proceedings.mlr.press/v195/you23a.html)\
 Wei You, Chao Qin, Zihao Wang, Shuoguang Yang\
 **Conference on Learning Theory (COLT)** 2023
@@ -94,13 +90,9 @@ Other papers
 Shortlist Experiments\
 Chao Qin, Xu Kuang
 
-
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/abs/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
 
 [Optimal Best Arm Identification in Two-Armed Bandits with a Fixed Budget under a Small Gap](https://arxiv.org/abs/2201.04469)\
 Masahiro Kato, Kaito Ariu, Masaaki Imaizumi, Masahiro Nomura, Chao Qin
-
-A Note on "Reinforcement Learning, Bit by Bit": Sanity Checks on Its Guidance\
-Chao Qin
 
