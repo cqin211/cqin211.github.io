@@ -26,7 +26,7 @@ Major revision at **Operations Research**
 
 [Admissibility of Neyman Allocation: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-Journal version in preparation. Short versions accepted at **ACM Conference on Economics and Computation (EC)** 2025 and **NeurIPS 2025 ML×OR Workshop**
+Journal version in preparation. Short versions accepted at **ACM Conference on Economics and Computation (EC) 2025** and **NeurIPS 2025 ML×OR Workshop**
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
@@ -85,7 +85,7 @@ Chao Qin, Diego Klabjan, Daniel Russo\
 **Conference on Neural Information Processing Systems (NeurIPS)** 2017
 
 
-Other papers
+Selected working papers
 -----
 Shortlist Experiments\
 Chao Qin, Xu Kuang
