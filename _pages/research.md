@@ -21,8 +21,8 @@ Preprints
 Chao Qin, Daniel Russo\
 Major revision at **Operations Research**
 - Second Prize, INFORMS Jeff McGill Student Paper Award, 2024
-- Service Management SIG at MSOM 2024
-- Technology, Innovation, and Entrepreneurship SIG at MSOM 2025
+- Accepted to MSOM Service Management SIG 2024 
+- Accepted to MSOM Technology, Innovation, and Entrepreneurship SIG 2025
 
 [Admissibility of Neyman Allocation: A Large-Deviation Approach](https://arxiv.org/abs/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
