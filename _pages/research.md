@@ -35,7 +35,7 @@ Submitted. Short version accepted at **NeurIPS 2025 ML×OR Workshop**
 
 
 
-Journal papers
+Journal Papers
 -----
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/abs/2202.09036)  
 Chao Qin, Daniel Russo\
@@ -62,7 +62,7 @@ Cong Shi, Huanan Zhang, Chao Qin\
 **Journal of Discrete Algorithms**, 2015
 
 
-Conference papers
+Conference Papers
 -----
 [Information-Directed Selection for Top-Two Algorithms](https://proceedings.mlr.press/v195/you23a.html)\
 Wei You, Chao Qin, Zihao Wang, Shuoguang Yang\
@@ -85,7 +85,7 @@ Chao Qin, Diego Klabjan, Daniel Russo\
 **Conference on Neural Information Processing Systems (NeurIPS)** 2017
 
 
-Selected working papers
+Selected Working Papers
 -----
 Shortlist Experiments\
 Chao Qin, Xu Kuang

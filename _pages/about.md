@@ -23,7 +23,7 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 
 
 
-Upcoming events
+Upcoming Events
 ======
 - Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
 - Stanford University, UC San Diego, and UChicago **Rising Stars in Data Science**, 2025<br>
@@ -35,7 +35,7 @@ Upcoming events
 
 
 
-Selected past events
+Selected Past Events
 ======
 **Operations**
 - [Operations mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg**, 2025
@@ -48,11 +48,13 @@ Selected past events
 - Conferences including **INFORMS, MSOM, APS, RMP, MIW**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
 
 
-**Econometrics and statistics**
+**Econometrics, Statistics, and Machine Learning**
 - Biostatistics seminar, **University of California, Berkeley**, 2025
 - Econometrics seminar, **University of Southern California**, 2024
 - Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
 - Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
+- Oral presentation, **Conference on Digital Experimentation @ MIT (CODE@MIT)**, 2021
+- Oral presentation, **The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)**, 2017
 - Conferences including **JSM, ASSA**
 
 
