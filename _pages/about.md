@@ -26,7 +26,7 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 Upcoming Events
 ======
 - Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
-- Stanford University, UC San Diego, and UChicago **Rising Stars in Data Science**, 2025<br>
+- **Stanford, UC San Diego, and UChicago Rising Stars in Data Science**, 2025<br>
 - **INFORMS Annual Meeting 2025**
 	- SD13 - Learning, Ranking, and Selection
 	- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
@@ -41,11 +41,11 @@ Selected Past Events
 - [Operations mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg**, 2025
 - Operations seminar, **UC Irvine Paul Merage School of Business**, 2025
 - Lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
-- Technology, Innovation, and Entrepreneurship **SIG at MSOM** 2025
-- Service Management **SIG at MSOM** 2024
-- ISyE-MS&E-IOE **Joint Rising Star**, 2025
+- **MSOM Technology, Innovation, and Entrepreneurship SIG** 2025
+- **MSOM Service Management SIG** 2024
+- **ISyE-MS&E-IOE Joint Rising Star**, 2025
 - Spotlight talk, **Purdue Supply Chain and Operations Management Conference**, 2025
-- Conferences including **INFORMS, MSOM, APS, RMP, MIW**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
+- Conferences including **INFORMS, MSOM, APS, RMP, MIW, ICCOPT**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
 
 
 **Econometrics, Statistics, and Machine Learning**
