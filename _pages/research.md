@@ -21,8 +21,8 @@ Preprints
 Chao Qin, Daniel Russo\
 Major revision at **Operations Research**
 - Second Prize, INFORMS Jeff McGill Student Paper Award, 2024
-- Accepted to MSOM Service Management SIG 2024 
-- Accepted to MSOM Technology, Innovation, and Entrepreneurship SIG 2025
+- Accepted for MSOM Service Management SIG 2024 
+- Accepted for MSOM Technology, Innovation, and Entrepreneurship SIG 2025
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
