@@ -55,7 +55,7 @@ Selected Past Events
 - Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
 - Oral presentation, **Conference on Digital Experimentation @ MIT (CODE@MIT)**, 2021
 - Oral presentation, **The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)**, 2017
-- Conferences including **JSM, ASSA**
+- Conferences including **JSM, ASSA**...
 
 
 
