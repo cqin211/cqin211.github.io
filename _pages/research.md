@@ -34,7 +34,7 @@ Journal version in preparation. [Short versions](https://dl.acm.org/doi/10.1145/
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
-Submitted. Short version accepted at **NeurIPS 2025 ML×OR Workshop**
+Submitted. Short version accepted at *NeurIPS 2025 ML×OR Workshop*
 
 
 
