@@ -20,16 +20,16 @@ Preprints
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/pdf/2402.10592)\
 Chao Qin, Daniel Russo\
 Major revision at **Operations Research**
-- Second Prize, INFORMS Jeff McGill Student Paper Award**, 2024
-- Accepted for MSOM Service Management SIG 2024 
-- Accepted for MSOM Technology, Innovation, and Entrepreneurship SIG 2025
+- *Second Prize, INFORMS Jeff McGill Student Paper Award, 2024*
+- Accepted for *MSOM Service Management SIG 2024*
+- Accepted for *MSOM Technology, Innovation, and Entrepreneurship SIG 2025*
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
 Journal version in preparation. [Short versions](https://dl.acm.org/doi/10.1145/3736252.3742678) accepted at 
-- ACM Conference on Economics and Computation (EC) 2025 
-- NeurIPS 2025 ML×OR Workshop
-- 2025 Conference on Digital Experimentation @ MIT
+- **ACM Conference on Economics and Computation (EC) 2025**
+- *NeurIPS 2025 ML×OR Workshop*
+- *2025 Conference on Digital Experimentation @ MIT*
 
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
@@ -94,8 +94,7 @@ Selected Working Papers
 Shortlist Experiments\
 Chao Qin, Xu Kuang
 
-Satisficing Experiments\
-
+Satisficing Experiments
 
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/pdf/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
