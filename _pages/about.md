@@ -25,19 +25,18 @@ Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)
 
 Upcoming Events
 ======
-- Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
-- **Stanford, UC San Diego, and UChicago Rising Stars in Data Science**, 2025<br>
 - **INFORMS Annual Meeting 2025**
 	- SD13 - Learning, Ranking, and Selection
 	- TB57 - Selected Auctions & Market Design papers from the EC 2025 conference III
-	- MA22 - Data-Driven Operations, co-organized with Yueyang Liu (Rice Jones Graduate School of Business)
-	- TE57 - Real-World Experimentation: Bridging Academic Insights and Industry Practice, co-organized with Ramesh Johari (Stanford MS&E) with talks from my collaborators and Airbnb
-
+	- MA22 - Data-Driven Operations, *co-organized with Yueyang Liu (Rice Jones Graduate School of Business)*
+	- TE57 - Real-World Experimentation: Bridging Academic Insights and Industry Practice, *co-organized with Ramesh Johari (Stanford MS&E) with talks from my collaborators and Airbnb*
+- **Stanford, UC San Diego, and UChicago Rising Stars in Data Science**, 2025
 
 
 Selected Past Events
 ======
 **Operations**
+- Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
 - [Mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg Operations Department**, 2025
 - Operations seminar, **UC Irvine Paul Merage School of Business**, 2025
 - Guest lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
