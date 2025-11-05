@@ -43,19 +43,19 @@ Journal Papers
 -----
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/pdf/2202.09036)  
 Chao Qin, Daniel Russo\
-**Management Science**, accepted
+**Management Science** (accepted), 2025
 
 [Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
 Chao Qin, Wei You\
-**Operations Research**, accepted
+**Operations Research** (ahead of print), 2025
 
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/A-Comment-on-Adaptive-Treatment-Assignment-in-Experiments-for-Policy-Choice/file/20334-3.pdf)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
-**Econometrica**, accepted
+**Econometrica** (accepted), 2025
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\
-**Mathematics of Operations Research**, 2023
+**Mathematics of Operations Research**, 2024
 
 [Stochastic Regret Minimization for Revenue Management Problems with Non-Stationary Demands](https://onlinelibrary.wiley.com/doi/10.1002/nav.21704)\
 Huanan Zhang, Cong Shi, Chao Qin, Cheng Hua\
