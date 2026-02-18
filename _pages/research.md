@@ -19,7 +19,7 @@ Selected Papers
 -----
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/pdf/2402.10592)\
 Chao Qin, Daniel Russo\
-Major revision at **Operations Research**
+Major revision at **Operations Research**<br>
 - Accepted at *MSOM Technology, Innovation, and Entrepreneurship SIG*, 2025
 - Spotlight talk, *Purdue Supply Chain and Operations Management Conference*, 2025
 - Accepted at *MSOM Service Management SIG*, 2024
@@ -28,7 +28,7 @@ Major revision at **Operations Research**
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-**ACM Conference on Economics and Computation (EC)**, 2025 -> Forward-to-journal submission
+**ACM Conference on Economics and Computation (EC)**, 2025 -> Forward-to-journal submission<br>
 - Selected to be presented at *INFORMS Auctions and Market Design Award Sessions*, 2025
 - Spotlight talk, *Chicago Booth Machine Learning in Economics Summer Conference*, 2025
 <!-- - Accepted at *NeurIPS 2025 ML×OR Workshop*, 2025 -->
