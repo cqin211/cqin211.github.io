@@ -48,13 +48,13 @@ Selected Past Events
 
 
 **Econometrics, Statistics, and Machine Learning**
-- Biostatistics seminar, **University of California, Berkeley**, 2025
-- Econometrics seminar, **University of Southern California**, 2024
-- Invited talk, **Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions**, 2024
-- Spotlight talk, **Chicago Booth Machine Learning in Economics Summer Conference (MLESC)**, 2025
-- Oral presentation, **Conference on Digital Experimentation @ MIT (CODE@MIT)**, 2021
-- Oral presentation, **The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)**, 2017
-- Conferences including **ASSA, JSM, SCI-ACIC, NeurIPS, ICML, COLT, EC, CODE@MIT**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
+- Biostatistics seminar, *University of California, Berkeley*, 2025
+- Econometrics seminar, *University of Southern California*, 2024
+- Invited talk, *Brown University Bravo Center/SNSF Workshop on Using Data to Make Decisions*, 2024
+- Spotlight talk, *Chicago Booth Machine Learning in Economics Summer Conference (MLESC)*, 2025
+- Oral presentation, *Conference on Digital Experimentation @ MIT (CODE@MIT)*, 2021
+- Oral presentation, *The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)*, 2017
+- Conferences including *ASSA, JSM, SCI-ACIC, NeurIPS, ICML, COLT, EC, CODE@MIT*, as well as a number of internal talks, seminars, and conferences at *Stanford and Columbia*...
 
 
 
