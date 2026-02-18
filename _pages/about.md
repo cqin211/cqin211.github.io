@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and Airbnb. Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
-My research interests lie at the interface of sequential decision-making under uncertainty and statistical machine learning, including theory and applications of multi-armed bandits, sequential design of experiments, causal inference, and reinforcement learning—with an emphasis on addressing real-world challenges. 
+My research interests lie at the interface of sequential decision-making under uncertainty and statistical machine learning, including theory and applications of multi-armed bandits, sequential design of experiments, causal inference, and reinforcement learning—with an emphasis on addressing real-world challenges.
 This [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) provides an overview of my research.
 Outside academia, I worked at Scale AI, Google DeepMind, Amazon Web Services AI Lab, and Adobe Research.
 
@@ -36,10 +36,10 @@ Upcoming Events
 Selected Past Events
 ======
 **Operations**
-- Oral presentation, **Cornell Young Researchers Workshop**, 2025<br>
-- [Mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), **Northwestern Kellogg Operations Department**, 2025
-- Operations seminar, **UC Irvine Paul Merage School of Business**, 2025
-- Guest lecture, **Stanford GSB OIT 677: Stochastic Modeling for Data-Driven Decision Making**, 2025
+- Oral presentation, *Cornell Young Researchers Workshop*, 2025<br>
+- Operations seminar, *University of California, Irvine Paul Merage School of Business,*, 2025
+- [Invited mini-course on adaptive experiments,](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), *Northwestern Kellogg School of Management*, 2025
+- Guest lecture for OIT 677: Stochastic Modeling for Data-Driven Decision Making, *Stanford Graduate School of Business*, 2025
 - **MSOM Technology, Innovation, and Entrepreneurship SIG** 2025
 - **MSOM Service Management SIG** 2024
 - **ISyE-MS&E-IOE Joint Rising Star**, 2025
