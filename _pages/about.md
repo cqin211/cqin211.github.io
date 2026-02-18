@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and Airbnb. Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
+I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and [Airbnb](https://www.airbnb.com/). Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
 
-My research interests lie at the interface of sequential decision-making under uncertainty and statistical machine learning, including theory and applications of multi-armed bandits, sequential design of experiments, causal inference, and reinforcement learning—with an emphasis on addressing real-world challenges.
-This [mini-course](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) provides an overview of my research.
-Outside academia, I worked at Scale AI, Google DeepMind, Amazon Web Services AI Lab, and Adobe Research.
+Outside academia, I have worked on research teams at Google DeepMind, Scale AI, Amazon AI, and Adobe Research.
 
-**Excited to be on the academic job market for the first time in the 2025-2026 cycle!**
+My research interests include
+- **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
+(Statistical) Machine Learning, Optimization, Game Theory;
+- **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
+Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
+
+The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at the Northwestern Kellogg School of Management provides an overview of my recent work on adaptive experimentation.
+
+**Excited to be on the academic job market for the first time!**
 
 Contact
 ======
