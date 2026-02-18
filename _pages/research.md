@@ -28,7 +28,7 @@ Major revision at **Operations Research**<br>
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-**ACM Conference on Economics and Computation (EC)**, 2025 -> Forward-to-journal submission<br>
+**ACM Conference on Economics and Computation (EC)**, 2025 → Forward-to-journal submission<br>
 - Selected to be presented at *INFORMS Auctions and Market Design Award Sessions*, 2025
 - Spotlight talk, *Chicago Booth Machine Learning in Economics Summer Conference*, 2025
 <!-- - Accepted at *NeurIPS 2025 ML×OR Workshop*, 2025 -->
@@ -37,7 +37,7 @@ Guido Imbens, Chao Qin, Stefan Wager\
 
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/pdf/2202.09036)  
 Chao Qin, Daniel Russo\
-**Management Science** (accepted)
+**Management Science** (accepted)<br>
 - Oral presentation, *Conference on Digital Experimentation at MIT*, 2021
 - Oral presentation, *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Distribution Shifts*, 2021
 
@@ -69,24 +69,24 @@ AI & ML Conference Papers
 -----
 [Information-Directed Selection for Top-Two Algorithms](https://proceedings.mlr.press/v195/you23a.html)\
 Wei You, Chao Qin, Zihao Wang, Shuoguang Yang\
-**Conference on Learning Theory (COLT)** 2023
+**Conference on Learning Theory (COLT)**, 2023
 
 [An Analysis of Ensemble Sampling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/874f5e53d7ce44f65fbf27a7b9406983-Abstract-Conference.html)\
 Chao Qin, Zheng Wen, Xiuyuan Lu, Benjamin Van Roy\
-**Conference on Neural Information Processing Systems (NeurIPS)** 2022
+**Conference on Neural Information Processing Systems (NeurIPS)**, 2022
 
 [Contextual Information-Directed Sampling](https://proceedings.mlr.press/v162/hao22b.html)\
 Botao Hao, Tor Lattimore, Chao Qin\
-**International Conference on Machine Learning (ICML)** 2022
+**International Conference on Machine Learning (ICML)**, 2022
 
 [Open Problem: Optimal Best-Arm Identification with Fixed Budget](https://proceedings.mlr.press/v178/open-problem-qin22a.html)\
 Chao Qin\
-**Conference on Learning Theory (COLT)** 2022
+**Conference on Learning Theory (COLT)**, 2022
 
 [Improving the Expected Improvement Algorithm](https://papers.nips.cc/paper_files/paper/2017/hash/b19aa25ff58940d974234b48391b9549-Abstract.html)\
 Chao Qin, Diego Klabjan, Daniel Russo\
-**Conference on Neural Information Processing Systems (NeurIPS)** 2017
-
+**Conference on Neural Information Processing Systems (NeurIPS)**, 2017<br>
+- Oral presentation, *Multi-disciplinary Conference on Reinforcement Learning and Decision Making*, 2017
 
 Selected Working Papers
 -----
