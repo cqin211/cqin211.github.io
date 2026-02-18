@@ -40,11 +40,11 @@ Selected Past Events
 - Operations seminar, *University of California, Irvine Paul Merage School of Business,*, 2025
 - [Invited mini-course on adaptive experiments,](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit), *Northwestern Kellogg School of Management*, 2025
 - Guest lecture for OIT 677: Stochastic Modeling for Data-Driven Decision Making, *Stanford Graduate School of Business*, 2025
-- **MSOM Technology, Innovation, and Entrepreneurship SIG** 2025
-- **MSOM Service Management SIG** 2024
-- **ISyE-MS&E-IOE Joint Rising Star**, 2025
-- Spotlight talk, **Purdue Supply Chain and Operations Management Conference**, 2025
-- Conferences including **INFORMS, MSOM, APS, RMP, MIW, ICCOPT**, as well as a number of internal talks, seminars, and conferences at **Stanford and Columbia**...
+- *MSOM Technology, Innovation, and Entrepreneurship SIG* 2025
+- *MSOM Service Management SIG* 2024
+- *ISyE-MS&E-IOE Joint Rising Star*, 2025
+- Spotlight talk, *Purdue Supply Chain and Operations Management Conference*, 2025
+- Conferences including *INFORMS, MSOM, APS, RMP, MIW, ICCOPT*, as well as a number of internal talks, seminars, and conferences at *Stanford and Columbia*...
 
 
 **Econometrics, Statistics, and Machine Learning**
