@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and [Airbnb](https://www.airbnb.com/). Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
+I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and *Airbnb*. Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
 
-Outside academia, I have worked on research teams at Google DeepMind, Scale AI, Amazon AI, and Adobe Research.
+Outside academia, I have worked on research teams at *Google DeepMind, Scale AI, Amazon AI, and Adobe Research*.
 
 My research interests include
 - **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
