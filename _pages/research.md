@@ -19,11 +19,11 @@ Selected Papers
 -----
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/pdf/2402.10592)\
 Chao Qin, Daniel Russo\
-Major revision at **Operations Research** $\vspace{-0.5cm}$
-- Oral presentation, *MSOM Technology, Innovation, and Entrepreneurship SIG*, 2025
-- Spotlight talk, *Purdue Supply Chain and Operations Management Conference*, 2025
-- Oral presentation, *MSOM Service Management SIG*, 2024
-- Second Place, **INFORMS Revenue Management and Pricing Jeff McGill Student Paper Award**, 2024
+Major revision at **Operations Research**\
+&bull; Oral presentation, *MSOM Technology, Innovation, and Entrepreneurship SIG*, 2025<br>
+&bull; Spotlight talk, *Purdue Supply Chain and Operations Management Conference*, 2025<br>
+&bull; Oral presentation, *MSOM Service Management SIG*, 2024<br>
+&bull; Second Place, **INFORMS Revenue Management and Pricing Jeff McGill Student Paper Award**, 2024
 
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
