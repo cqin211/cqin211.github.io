@@ -19,7 +19,7 @@ Selected Papers
 -----
 [Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification](https://arxiv.org/pdf/2402.10592)\
 Chao Qin, Daniel Russo\
-Major revision at **Operations Research**<br>
+Major revision at **Operations Research** $\vspace{-0.5cm}$
 - Oral presentation, *MSOM Technology, Innovation, and Entrepreneurship SIG*, 2025
 - Spotlight talk, *Purdue Supply Chain and Operations Management Conference*, 2025
 - Oral presentation, *MSOM Service Management SIG*, 2024
@@ -37,7 +37,7 @@ Guido Imbens, Chao Qin, Stefan Wager\
 
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/pdf/2202.09036)  
 Chao Qin, Daniel Russo\
-**Management Science** (accepted)<br>
+**Management Science** (accepted)<br
 - Oral presentation, *Conference on Digital Experimentation at MIT*, 2021
 - Oral presentation, *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Distribution Shifts*, 2021
 
@@ -93,13 +93,12 @@ Selected Working Papers
 
 [Pure Exploration via Frank-Wolfe Self-Play](https://arxiv.org/pdf/2509.19901)\
 Xinyu Liu, Chao Qin, Wei You\
-Submitted. Short version accepted at *NeurIPS 2025 ML×OR Workshop*
+<!-- Submitted. Short version accepted at *NeurIPS 2025 ML×OR Workshop* -->
 
 
 [Shortlist Experiments](https://drive.google.com/drive/folders/1yctHW8jdDNquE5Z2m6jOvUqr9imwwvh4)\
 Chao Qin, Xu Kuang
 
-Satisficing Experiments
 
 [From Predictions to Decisions: The Importance of Joint Predictive Distributions](https://arxiv.org/pdf/2107.09224)\
 Zheng Wen, Ian Osband, Chao Qin, Xiuyuan Lu, Morteza Ibrahimi, Vikranth Dwaracherla, Mohammad Asghari, Benjamin Van Roy
