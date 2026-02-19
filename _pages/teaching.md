@@ -16,7 +16,7 @@ Instructor for [a mini-course on adaptive experimentation]((https://docs.google.
 
 Stanford Graduate School of Business
 -----
-Guest lecture instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
+Guest lecture instructor for [OIT 677: Stochastic Modeling for Data-Driven Decision Making](https://explorecourses.stanford.edu/search?q=OIT%20677&academicYear=20242025)
 
 Columbia University
 -----
