@@ -13,10 +13,10 @@ I am a postdoctoral scholar at Stanford Graduate School of Business, where I hav
 Outside academia, I have worked on research teams at *Google DeepMind, Scale AI, Amazon AI, and Adobe Research*.
 
 My research interests include\
-&bull; **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
-(Statistical) Machine Learning, Optimization, Game Theory, and\
-&bull; **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
-Service Operations, Supply Chain Management, Advertising Measurement, Ranking.\
+- **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
+(Statistical) Machine Learning, Optimization, Game Theory, and
+- **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
+Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
 The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at Northwestern Kellogg School of Management provides an overview of my recent work on Adaptive Experimentation.
 
 **Excited to be on the academic job market for the first time!**
