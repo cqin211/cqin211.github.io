@@ -10,15 +10,13 @@ redirect_from:
 
 I am a postdoctoral scholar at Stanford Graduate School of Business, where I have the privilege of working with [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/), [Stefan Wager](https://web.stanford.edu/~swager/), and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/), and collaborating with [Ramesh Johari](https://web.stanford.edu/~rjohari/) and *Airbnb*. Previously, I received my Ph.D. degree in Decision, Risk, and Operations from Columbia Business School, where I was very fortunate to be advised by [Daniel Russo](https://djrusso.github.io/).
 <!-- I earned my undergraduate degree from University of Michigan, Ann Arbor, where engaging research with [Cong Shi](https://congshi-research.github.io/) and inspiring courses in Optimization, Stochastic processes, and Queueing Theory motivated me to pursue a Ph.D. in Operations Research. -->
-
 Outside academia, I have worked on research teams at *Google DeepMind, Scale AI, Amazon AI, and Adobe Research*.
 
 My research interests include\
 &bull; **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
 (Statistical) Machine Learning, Optimization, Game Theory, and\
 &bull; **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
-Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
-
+Service Operations, Supply Chain Management, Advertising Measurement, Ranking.\
 The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at Northwestern Kellogg School of Management provides an overview of my recent work on Adaptive Experimentation.
 
 **Excited to be on the academic job market for the first time!**
