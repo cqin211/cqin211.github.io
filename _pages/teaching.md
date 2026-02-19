@@ -7,6 +7,16 @@ author_profile: true
 
 
 
+
+
+Northwestern Kellogg School of Management
+-----
+Instructor for a mini-course on adaptive experiments
+
+Stanford Graduate School of Business
+-----
+Guest Lecture Instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
+
 Columbia University
 -----
 Teaching assistants for
@@ -20,8 +30,3 @@ Teaching assistants for
 * Managerial Statistics
 * Business Analytics
 * The Analytics Advantage
-
-
-Stanford Graduate School of Business
------
-Guest Lecture Instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
