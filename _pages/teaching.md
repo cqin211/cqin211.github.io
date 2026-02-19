@@ -9,7 +9,7 @@ author_profile: true
 
 Columbia University
 -----
-**Teaching assistants**
+Teaching assistants for
 * Foundations of Stochastic Modeling
 * Dynamic Programming and Optimal Control
 * Reliable Statistical Learning
@@ -20,3 +20,8 @@ Columbia University
 * Managerial Statistics
 * Business Analytics
 * The Analytics Advantage
+
+
+Stanford Graduate School of Business
+-----
+Guest Lecture Instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
