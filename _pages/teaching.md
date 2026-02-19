@@ -12,7 +12,7 @@ redirect_from:
 
 Northwestern Kellogg School of Management
 -----
-Instructor for [a mini-course on adaptive experimentation]((https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit))
+Instructor for [a mini-course on Adaptive Experimentation]((https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit))
 
 Stanford Graduate School of Business
 -----
