@@ -18,7 +18,7 @@ My research interests include\
 &bull; **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
 Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
 
-The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at the Northwestern Kellogg School of Management provides an overview of my recent work on adaptive experimentation.
+The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at Northwestern Kellogg School of Management provides an overview of my recent work on adaptive experimentation.
 
 **Excited to be on the academic job market for the first time!**
 

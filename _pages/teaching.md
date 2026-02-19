@@ -12,22 +12,22 @@ redirect_from:
 
 Northwestern Kellogg School of Management
 -----
-Instructor for a mini-course on adaptive experimentation
+Instructor for [a mini-course on adaptive experimentation]((https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit))
 
 Stanford Graduate School of Business
 -----
-Guest Lecture Instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
+Guest lecture instructor for OIT 677: Stochastic Modeling for Data-Driven Decision Making
 
 Columbia University
 -----
 Teaching assistants for
-* Foundations of Stochastic Modeling
-* Dynamic Programming and Optimal Control
-* Reliable Statistical Learning
-* Optimization for Machine Learning
-* Machine Learning Theory
-* Machine Learning
-* Artificial Intelligence
-* Managerial Statistics
-* Business Analytics
-* The Analytics Advantage
+* Managerial Statistics (MBA/EMBA)
+* Business Analytics (MBA/EMBA)
+* Analytics Advantage (MBA/EMBA)
+* Machine Learning (M.S.)
+* Artificial Intelligence (M.S.)
+* Foundations of Stochastic Modeling (Ph.D.)
+* Dynamic Programming and Optimal Control (Ph.D.)
+* Reliable Statistical Learning (Ph.D.)
+* Optimization for Machine Learning (M.S./Ph.D.)
+* Machine Learning Theory (M.S./Ph.D.)
