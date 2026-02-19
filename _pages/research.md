@@ -28,18 +28,18 @@ Major revision at **Operations Research**\
 
 [Admissibility of Completely Randomized Trials: A Large-Deviation Approach](https://arxiv.org/pdf/2506.05329)\
 Guido Imbens, Chao Qin, Stefan Wager\
-**ACM Conference on Economics and Computation (EC)**, 2025 → Forward-to-journal submission<br>
-- Spotlight talk, *INFORMS Auctions and Market Design Award Sessions*, 2025
-- Spotlight talk, *Chicago Booth Machine Learning in Economics Summer Conference*, 2025
+**ACM Conference on Economics and Computation (EC)**, 2025 → Forward-to-journal submission\
+&bull; Spotlight talk, *INFORMS Auctions and Market Design Award Sessions*, 2025\
+&bull; Spotlight talk, *Chicago Booth Machine Learning in Economics Summer Conference*, 2025
 <!-- - Accepted at *NeurIPS 2025 ML×OR Workshop*, 2025 -->
 <!-- - *2025 Conference on Digital Experimentation @ MIT* -->
 
 
 [Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation](https://arxiv.org/pdf/2202.09036)  
 Chao Qin, Daniel Russo\
-**Management Science** (accepted)<br
-- Oral presentation, *Conference on Digital Experimentation at MIT*, 2021
-- Oral presentation, *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Distribution Shifts*, 2021
+**Management Science** (accepted)\
+&bull; Oral presentation, *Conference on Digital Experimentation at MIT*, 2021\
+&bull; Oral presentation, *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Distribution Shifts*, 2021
 
 
 [Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
@@ -85,8 +85,8 @@ Chao Qin\
 
 [Improving the Expected Improvement Algorithm](https://papers.nips.cc/paper_files/paper/2017/hash/b19aa25ff58940d974234b48391b9549-Abstract.html)\
 Chao Qin, Diego Klabjan, Daniel Russo\
-**Conference on Neural Information Processing Systems (NeurIPS)**, 2017<br>
-- Oral presentation, *Multi-disciplinary Conference on Reinforcement Learning and Decision Making*, 2017
+**Conference on Neural Information Processing Systems (NeurIPS)**, 2017\
+&bull; Oral presentation, *Multi-disciplinary Conference on Reinforcement Learning and Decision Making*, 2017
 
 Selected Working Papers
 -----
