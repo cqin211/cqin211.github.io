@@ -14,7 +14,7 @@ Outside academia, I have worked on research teams at *Google DeepMind, Scale AI,
 
 My research interests include\
 &bull; **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
-(Statistical) Machine Learning, Optimization, Game Theory;\
+(Statistical) Machine Learning, Optimization, Game Theory, and\
 &bull; **Applications:** Experimentation and Personalization, Large-Scale Resource Allocation, Pricing,
 Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
 
