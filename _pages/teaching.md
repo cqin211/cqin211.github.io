@@ -3,6 +3,7 @@ layout: archive
 # title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
 ---
 
 
@@ -11,7 +12,7 @@ author_profile: true
 
 Northwestern Kellogg School of Management
 -----
-Instructor for a mini-course on adaptive experiments
+Instructor for a mini-course on adaptive experimentation
 
 Stanford Graduate School of Business
 -----
