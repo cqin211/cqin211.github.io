@@ -20,7 +20,6 @@ Service Operations, Supply Chain Management, Advertising Measurement, Ranking.
 
 The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTEv_o/edit) of my mini-course at Northwestern Kellogg School of Management provides an overview of my recent work on Adaptive Experimentation.
 
-**Excited to be on the academic job market for the first time!**
 
 Contact
 ======
