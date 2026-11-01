@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor of Management at *University of Miami Business School*. Previously, I was a postdoctoral scholar at *Stanford Graduate School of Business*, where I had the privilege of working with <a href="https://gsb-faculty.stanford.edu/guido-w-imbens/" style="text-decoration: none !important;">Guido Imbens</a>, <a href="https://web.stanford.edu/~swager/" style="text-decoration: none;">Stefan Wager</a>, and <a href="https://gsb-faculty.stanford.edu/kuang-xu/" style="text-decoration: none;">Kuang Xu</a>, and collaborating with <a href="https://web.stanford.edu/~rjohari/" style="text-decoration: none;">Ramesh Johari</a> and *Airbnb*. Before that, I received my Ph.D. degree in Decision, Risk, and Operations from *Columbia Business School*, where I was very fortunate to be advised by <a href="https://djrusso.github.io/" style="text-decoration: none;">Daniel Russo</a>.
 <!-- I earned my undergraduate degree from University of Michigan, Ann Arbor, where engaging research with [Cong Shi](https://congshi-research.github.io/) and inspiring courses in Optimization, Stochastic processes, and Queueing Theory motivated me to pursue a Ph.D. in Operations Research. -->
-Outside academia, I have worked on research teams at *Google DeepMind, Scale AI, Amazon AI, and Adobe Research*.
+Outside academia, I have worked on research teams at *Google DeepMind*, *Scale AI*, *Amazon AI*, and *Adobe Research*.
 
 My research interests include
 - **Methodologies:** Experimental Design, Bandits and Reinforcement Learning, Causal Inference,
