@@ -1,7 +1,8 @@
 ---
 permalink: /
 #title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-title: "About Me"
+#title: "About Me"
+title: "Chao Qin"
 author_profile: true
 redirect_from:
   - /about/
