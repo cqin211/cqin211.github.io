@@ -41,15 +41,13 @@ Chao Qin, Daniel Russo\
 &bull; Oral presentation, *Conference on Digital Experimentation at MIT*, 2021\
 &bull; Oral presentation, *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Distribution Shifts*, 2021
 
-
-[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
-Chao Qin, Wei You\
-**Operations Research** (ahead of print)
-
-
 [A Comment on "Adaptive Treatment Assignment in Experiments for Policy Choice"](https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/A-Comment-on-Adaptive-Treatment-Assignment-in-Experiments-for-Policy-Choice/file/20334-3.pdf)\
 Kaito Ariu, Masahiro Kato, Junpei Komiyama, Kenichiro McAlinn, Chao Qin\
 **Econometrica** (accepted)
+
+[Dual-Directed Algorithm Design for Efficient Pure Exploration](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0590)\\
+Chao Qin, Wei You\
+**Operations Research**, Vol. 74(2), pp. 1104-1125, 2026
 
 [Rate-Optimal Bayesian Simple Regret in Best-Arm Identification](https://pubsonline.informs.org/doi/10.1287/moor.2022.0011)\
 Junpei Komiyama, Kaito Ariu, Masahiro Kato, Chao Qin\

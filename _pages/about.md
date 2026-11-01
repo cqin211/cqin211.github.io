@@ -23,7 +23,7 @@ The [syllabus](https://docs.google.com/document/d/1pQS2JYLHdkSkFPNx1aC3PmVRkRcTE
 
 Contact
 ======
-Email: [chaoqin@stanford.edu](mailto:chaoqin@stanford.edu)  
+Email: [cxq181@miami.edu](mailto:cxq181@miami.edu)  
 [Google Scholar](https://scholar.google.com/citations?user=BpXNPtQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/chao-qin-b954228b/)
 
 
